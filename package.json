@@ -1,0 +1,19 @@
+{
+  "name": "bokstavligenjag.se",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/evref/bokstavligenjag.se.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evref/bokstavligenjag.se/issues"
+  },
+  "homepage": "https://github.com/evref/bokstavligenjag.se#readme",
+  "description": ""
+}
